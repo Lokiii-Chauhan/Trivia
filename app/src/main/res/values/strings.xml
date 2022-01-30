@@ -5,7 +5,6 @@
     <string name="true_button">True</string>
     <string name="false_button">False</string>
     <string name="next_button">Next</string>
-    <string name="placeholder">Hello World This is where we are going to show Ques...!</string>
     <string name="text_formatted">Question: %d/%d</string>
     <string name="correct_answer">Correct Answer</string>
     <string name="incorrect">Incorrect Answer</string>
